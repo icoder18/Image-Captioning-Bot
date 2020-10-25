@@ -1,5 +1,19 @@
 # Image Captioning Bot
 
+
+### Snapshots
+<br>
+<img src="snapshots/img_captioning2.jpg" width=800px height=auto>
+<br>
+<img src="snapshots/img_captioning4.jpg" width=800px height=auto>
+<br>
+<img src="snapshots/img_captioning1.jpg" width=800px height=auto>
+<br>
+<img src="snapshots/img_captioning3.jpg" width=800px height=auto>
+<br>
+
+
+
 ### Applications
 <ol>
   <li><b>Visual Aid for the blind</b></li>
